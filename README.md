@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF3621&height=120&section=header&text=Filo%20Gonzalez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Databricks%20Sr.%20Forward%20Delivery%20Engineer&descSize=18&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF3621&height=120&section=header&text=Filo%20Gonzalez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Databricks%20Resident%20Solutions%20Architect&descSize=18&descAlignY=60)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Sr.+Forward+Delivery+Engineer;Spark+Declerative+Pipelines;Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Resident+SA;Delta+Live+Tables+%E2%80%A2+Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@ I partner with enterprise engineering and data teams to design, build, and opera
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filomeno-gonzalez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=filomeno-gonzalez&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -67,18 +67,14 @@ I partner with enterprise engineering and data teams to design, build, and opera
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/filomeno-gonzalez/UC-Migration">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=UC-Migration&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/NeighborlyApp">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=NeighborlyApp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/cicddabs">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=cicddabs&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/O9-SDP">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=O9-SDP&theme=tokyonight&hide_border=true" />
-  </a>
+
+| 📂 Project | 📝 Description | 🔧 Stack |
+|:--|:--|:--|
+| [**UC-Migration**](https://github.com/filomeno-gonzalez/UC-Migration) | End-to-end accelerator for migrating Databricks workspaces to Unity Catalog — catalog structure, permissions, lineage, and governance | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white) |
+| [**Automatic Identity Management**](https://github.com/filomeno-gonzalez/Automatic_Identity_Management_Azure_Databricks) | Automated SCIM-based identity provisioning and lifecycle management for Azure Databricks — eliminates manual user/group management at enterprise scale | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**O9-SDP**](https://github.com/filomeno-gonzalez/O9-SDP) | Supply chain data platform on Databricks for demand sensing and planning — integrates o9 Solutions with Delta Lake for real-time analytics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
+| [**NeighborlyApp**](https://github.com/filomeno-gonzalez/NeighborlyApp) | Cloud-native neighborhood services app — serverless backend with Azure Functions, CosmosDB, and API Management | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+
 </div>
 
 ---
