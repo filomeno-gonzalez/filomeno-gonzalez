@@ -68,14 +68,6 @@ I partner with enterprise engineering and data teams to design, build, and opera
 <img src="https://img.shields.io/badge/Clouds-Azure_%7C_AWS_%7C_GCP-orange?style=for-the-badge&logo=icloud&logoColor=white" />
 <br/><br/>
 
-**GitHub Achievements**
-
-<a href="https://github.com/filomeno-gonzalez?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
-</a>
-<br/>
-<sub>⭐ Pull Shark ×2 — Merged pull requests reviewed and accepted</sub>
 
 </div>
 
