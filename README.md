@@ -1,6 +1,6 @@
 # Filomeno Gonzalez
 
-**Databricks Resident Solutions Architect** | Dallas, TX
+**Databricks Sr. Forward Delivery Engineer** | Dallas, TX
 
 I partner with enterprise engineering and data teams to design, build, and operationalize production-grade data and AI platforms on Databricks. My work spans the full stack — from ingestion architecture and governance to LLMOps and agentic AI — across Azure, AWS, and GCP.
 
