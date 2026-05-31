@@ -39,7 +39,7 @@ A significant portion of my work lives in private repositories — built for and
 
 - **Tax declaration automation** — DLT pipelines processing físicas and RESICO tax declarations, built to Mexican SAT compliance requirements
 - **Tax withholding pipelines** — Automated retenciones processing with Delta Live Tables and reconciliation logic
-- **Banking ETL migration** — Migrated a major Latin American bank's ombudsman (ouvidoria) compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a production workflow
+- **Banking ETL migration** — Migrated a major Latin American bank's BRADESCO (ouvidoria) compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a production workflow
 - **LLMOps platform** — End-to-end lifecycle management for LLM applications: fine-tuning, evaluation, deployment, and monitoring on Databricks
 - **Multimodal RAG** — Azure OpenAI-powered retrieval across structured tables and unstructured documents
 
