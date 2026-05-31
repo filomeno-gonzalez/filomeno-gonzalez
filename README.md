@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3621&height=120&section=header&text=Filo%20Gonzalez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Databricks%20Sr.%20Forward%20Delivery%20Engineer&descSize=18&descAlignY=60)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Sr.+Forward+Delivery+Engineer;Spark+Declerative+Pipelines;Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Sr.+Forward+Delivery+Engineer;Spark+Declarative+Pipelines;Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -56,15 +56,23 @@ I partner with enterprise engineering and data teams to design, build, and opera
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filomeno-gonzalez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+
+<img src="https://img.shields.io/badge/Databricks-Certified_Associate_Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-Certified_Developer-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Enterprise_Customers-15%2B-success?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Years_Experience-8%2B-blue?style=for-the-badge&logo=calendar&logoColor=white" />
+<img src="https://img.shields.io/badge/Clouds-Azure_%7C_AWS_%7C_GCP-orange?style=for-the-badge&logo=icloud&logoColor=white" />
+
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Public Projects
 
 <div align="center">
   <a href="https://github.com/filomeno-gonzalez/UC-Migration">
@@ -73,25 +81,27 @@ I partner with enterprise engineering and data teams to design, build, and opera
   <a href="https://github.com/filomeno-gonzalez/NeighborlyApp">
     <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=NeighborlyApp&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/filomeno-gonzalez/cicddabs">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=cicddabs&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/filomeno-gonzalez/O9-SDP">
     <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=O9-SDP&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/filomeno-gonzalez/cicddabs">
+    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=cicddabs&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 ---
 
-## 🔒 Customer & Confidential Work
+## 🔒 Notable Private Work
 
-A significant portion of my work lives in private repositories — built for and owned by enterprise customers. Representative examples (repos private, customer details withheld):
+Highlighted projects in private repos — built for enterprise customers or internal use:
 
-- **Tax declaration automation** — DLT pipelines processing físicas and RESICO tax declarations, built to Mexican SAT compliance requirements
-- **Tax withholding pipelines** — Automated retenciones processing with Delta Live Tables and reconciliation logic
-- **Banking ETL migration** — Migrated a major Latin American bank’s ombudsman (ouvidoria) compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a production workflow
-- **LLMOps platform** — End-to-end lifecycle management for LLM applications: fine-tuning, evaluation, deployment, and monitoring on Databricks
-- **Multimodal RAG** — Azure OpenAI-powered retrieval across structured tables and unstructured documents
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **Codebase Knowledge Graph RAG** (`bcp_analisis_impacto`) | Automatically extracts, analyzes, and enables semantic search across Databricks codebases using knowledge graphs + RAG. Builds column-level lineage, impact analysis, and transformation chain tracing — delivering 90% reduction in manual analysis time | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) |
+| **Secure Databricks Bot** (`secure_bot`) | Automated deployment toolkit for a production-hardened Microsoft Teams bot backed by Databricks Genie — provisions private endpoints, VNet peering, network rules, and route tables for zero-trust connectivity | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) |
+| **Automatic Identity Management** | SCIM-based automated provisioning and lifecycle management for Azure Databricks users and groups — eliminates manual identity operations across large multi-workspace environments | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Banking ETL Migration** | Migrated a major Latin American bank’s ombudsman compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a regulated production workflow | ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **SAT Tax Pipelines** | DLT pipelines for Mexican SAT tax declaration automation — físicas, RESICO, and retenciones processing with reconciliation logic and compliance validation | ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
