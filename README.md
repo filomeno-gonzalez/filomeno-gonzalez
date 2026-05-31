@@ -50,10 +50,6 @@ I partner with enterprise engineering and data teams to design, build, and opera
   <img height="180" src="https://github-readme-stats-nine-liart-81.vercel.app/api/top-langs/?username=filomeno-gonzalez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filomeno-gonzalez&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -75,20 +71,20 @@ I partner with enterprise engineering and data teams to design, build, and opera
 
 ---
 
-## 📌 Featured Public Projects
+## 📌 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/filomeno-gonzalez/bcp_analisis_impacto">
+    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=bcp_analisis_impacto&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/filomeno-gonzalez/Automatic_Identity_Management_Azure_Databricks">
+    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=Automatic_Identity_Management_Azure_Databricks&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/filomeno-gonzalez/UC-Migration">
     <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=UC-Migration&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/filomeno-gonzalez/NeighborlyApp">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=NeighborlyApp&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/filomeno-gonzalez/O9-SDP">
     <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=O9-SDP&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/cicddabs">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=cicddabs&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -100,9 +96,7 @@ Highlighted projects in private repos — built for enterprise customers or inte
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **Codebase Knowledge Graph RAG** (`bcp_analisis_impacto`) | Automatically extracts, analyzes, and enables semantic search across Databricks codebases using knowledge graphs + RAG. Builds column-level lineage, impact analysis, and transformation chain tracing — delivering 90% reduction in manual analysis time | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) |
 | **Secure Databricks Bot** (`secure_bot`) | Automated deployment toolkit for a production-hardened Microsoft Teams bot backed by Databricks Genie — provisions private endpoints, VNet peering, network rules, and route tables for zero-trust connectivity | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) |
-| **Automatic Identity Management** | SCIM-based automated provisioning and lifecycle management for Azure Databricks users and groups — eliminates manual identity operations across large multi-workspace environments | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Banking ETL Migration** | Migrated a major Latin American bank’s ombudsman compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a regulated production workflow | ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **SAT Tax Pipelines** | DLT pipelines for Mexican SAT tax declaration automation — físicas, RESICO, and retenciones processing with reconciliation logic and compliance validation | ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
@@ -120,7 +114,7 @@ Highlighted projects in private repos — built for enterprise customers or inte
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filogzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filomeno-gonzalez)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josefilomeno1992@gmail.com)
 
 </div>
