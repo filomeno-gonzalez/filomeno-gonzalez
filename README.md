@@ -66,6 +66,16 @@ I partner with enterprise engineering and data teams to design, build, and opera
 <img src="https://img.shields.io/badge/Enterprise_Customers-15%2B-success?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Years_Experience-8%2B-blue?style=for-the-badge&logo=calendar&logoColor=white" />
 <img src="https://img.shields.io/badge/Clouds-Azure_%7C_AWS_%7C_GCP-orange?style=for-the-badge&logo=icloud&logoColor=white" />
+<br/><br/>
+
+**GitHub Achievements**
+
+<a href="https://github.com/filomeno-gonzalez?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
+</a>
+<br/>
+<sub>⭐ Pull Shark ×2 — Merged pull requests that were reviewed and accepted</sub>
 
 </div>
 
@@ -97,8 +107,8 @@ Highlighted projects in private repos — built for enterprise customers or inte
 | Project | What it does | Stack |
 |:--|:--|:--|
 | **Secure Databricks Bot** (`secure_bot`) | Automated deployment toolkit for a production-hardened Microsoft Teams bot backed by Databricks Genie — provisions private endpoints, VNet peering, network rules, and route tables for zero-trust connectivity | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) |
-| **Banking ETL Migration** | Migrated a major Latin American bank’s ombudsman compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a regulated production workflow | ![SDP](https://img.shields.io/badge/-SDP-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **SAT Tax Pipelines** | SDP pipelines for Mexican SAT tax declaration automation — físicas, RESICO, and retenciones processing with reconciliation logic and compliance validation | ![SDP](https://img.shields.io/badge/-SDP-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Banking ETL Migration** | Migrated a major Latin American bank’s ombudsman compliance process from Informatica PowerCenter to Databricks DLT — full replatform of a regulated production workflow | ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **SAT Tax Pipelines** | DLT pipelines for Mexican SAT tax declaration automation — físicas, RESICO, and retenciones processing with reconciliation logic and compliance validation | ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
