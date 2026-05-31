@@ -56,13 +56,13 @@ I partner with enterprise engineering and data teams to design, build, and opera
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Databricks-Certified_Associate_Developer-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Spark-Certified_Developer-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+[![Databricks Certified](https://img.shields.io/badge/Databricks-Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/f5dbfe40-ff06-462f-8385-d77a46831fcc)
+[![Udacity Azure Nanodegree](https://img.shields.io/badge/Udacity-Cloud_Developer_Azure-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)](https://confirm.udacity.com/NMJGZGKG)
+[![Great Learning](https://img.shields.io/badge/Great_Learning-AI_%26_ML_Portfolio-F97316?style=for-the-badge&logo=google&logoColor=white)](https://eportfolio.mygreatlearning.com/jose-filomeno-gonzalez-gutierrez)
 <br/><br/>
 <img src="https://img.shields.io/badge/Enterprise_Customers-15%2B-success?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Years_Experience-8%2B-blue?style=for-the-badge&logo=calendar&logoColor=white" />
