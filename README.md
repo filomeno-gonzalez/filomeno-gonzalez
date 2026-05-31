@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3621&height=120&section=header&text=Filo%20Gonzalez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Databricks%20Sr.%20Forward%20Delivery%20Engineer&descSize=18&descAlignY=60)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Sr.+Forward+Delivery+Engineer;Spark+Declerative+Pipelines;A2+Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Sr.+Forward+Delivery+Engineer;Spark+Declerative+Pipelines;Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
 </div>
 
 <div align="center">
