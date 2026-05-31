@@ -46,8 +46,8 @@ I partner with enterprise engineering and data teams to design, build, and opera
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=filomeno-gonzalez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filomeno-gonzalez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=filomeno-gonzalez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filomeno-gonzalez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@ I partner with enterprise engineering and data teams to design, build, and opera
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filomeno-gonzalez&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=filomeno-gonzalez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
@@ -68,16 +68,16 @@ I partner with enterprise engineering and data teams to design, build, and opera
 
 <div align="center">
   <a href="https://github.com/filomeno-gonzalez/UC-Migration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=UC-Migration&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=UC-Migration&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/filomeno-gonzalez/NeighborlyApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=NeighborlyApp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/Automatic_Identity_Management_Azure_Databricks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=Automatic_Identity_Management_Azure_Databricks&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=NeighborlyApp&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/filomeno-gonzalez/cicddabs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=cicddabs&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=cicddabs&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/filomeno-gonzalez/O9-SDP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=filomeno-gonzalez&repo=O9-SDP&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </div>
 
