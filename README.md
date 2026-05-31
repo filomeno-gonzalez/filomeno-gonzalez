@@ -60,9 +60,12 @@ I partner with enterprise engineering and data teams to design, build, and opera
 
 <div align="center">
 
-[![Databricks Certified](https://img.shields.io/badge/Databricks-Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/f5dbfe40-ff06-462f-8385-d77a46831fcc)
-[![Udacity Azure Nanodegree](https://img.shields.io/badge/Udacity-Cloud_Developer_Azure-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)](https://confirm.udacity.com/NMJGZGKG)
-[![Great Learning](https://img.shields.io/badge/Great_Learning-AI_%26_ML_Portfolio-F97316?style=for-the-badge&logo=google&logoColor=white)](https://eportfolio.mygreatlearning.com/jose-filomeno-gonzalez-gutierrez)
+[![Databricks DE Pro](https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/f5dbfe40-ff06-462f-8385-d77a46831fcc)
+[![Udacity Azure](https://img.shields.io/badge/Udacity-Cloud_Developer_using_Microsoft_Azure-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)](https://confirm.udacity.com/NMJGZGKG)
+<br/><br/>
+[![GL Data Science](https://img.shields.io/badge/UT_McCombs-PGP_Data_Science_%26_Business_Analytics-BF5700?style=for-the-badge&logo=academia&logoColor=white)](https://eportfolio.mygreatlearning.com/jose-filomeno-gonzalez-gutierrez)
+[![GL Deep Learning](https://img.shields.io/badge/UT_McCombs-AI_with_Deep_Learning-BF5700?style=for-the-badge&logo=academia&logoColor=white)](https://eportfolio.mygreatlearning.com/jose-filomeno-gonzalez-gutierrez2)
+[![GL Python AI](https://img.shields.io/badge/Great_Learning-Advanced_Python%3A_Analytics_to_AI-F97316?style=for-the-badge&logo=python&logoColor=white)](https://www.mygreatlearning.com/eportfolio/jose-filomeno-gonzalez-gutierrez3)
 <br/><br/>
 <img src="https://img.shields.io/badge/Enterprise_Customers-15%2B-success?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Years_Experience-8%2B-blue?style=for-the-badge&logo=calendar&logoColor=white" />
