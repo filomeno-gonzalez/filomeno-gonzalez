@@ -68,6 +68,15 @@ I partner with enterprise engineering and data teams to design, build, and opera
 <img src="https://img.shields.io/badge/Clouds-Azure_%7C_AWS_%7C_GCP-orange?style=for-the-badge&logo=icloud&logoColor=white" />
 <br/><br/>
 
+**GitHub Achievements**
+
+<a href="https://github.com/filomeno-gonzalez?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
+</a>
+<br/>
+<sub>⭐ Pull Shark ×2 — Merged pull requests reviewed and accepted</sub>
+
 </div>
 
 ---
@@ -75,18 +84,14 @@ I partner with enterprise engineering and data teams to design, build, and opera
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/filomeno-gonzalez/bcp_analisis_impacto">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=bcp_analisis_impacto&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/Automatic_Identity_Management_Azure_Databricks">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=Automatic_Identity_Management_Azure_Databricks&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/UC-Migration">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=UC-Migration&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/filomeno-gonzalez/O9-SDP">
-    <img src="https://github-readme-stats-nine-liart-81.vercel.app/api/pin/?username=filomeno-gonzalez&repo=O9-SDP&theme=tokyonight&hide_border=true" />
-  </a>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [🧠 **bcp\_analisis\_impacto**](https://github.com/filomeno-gonzalez/bcp_analisis_impacto) | Codebase Knowledge Graph RAG LLM — automatically extracts column-level lineage, impact analysis, and semantic search across Databricks codebases. **90% reduction in manual analysis time** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![DLT](https://img.shields.io/badge/-DLT-FF3621?style=flat&logo=databricks&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) |
+| [🔐 **Automatic\_Identity\_Management**](https://github.com/filomeno-gonzalez/Automatic_Identity_Management_Azure_Databricks) | Automated SCIM-based identity provisioning and lifecycle management for Azure Databricks — eliminates manual user/group operations at enterprise scale | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [📐 **UC-Migration**](https://github.com/filomeno-gonzalez/UC-Migration) | End-to-end accelerator for migrating Databricks workspaces to Unity Catalog — catalog structure, permissions, lineage, and governance | ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [📦 **O9-SDP**](https://github.com/filomeno-gonzalez/O9-SDP) | Supply chain data platform on Databricks for demand sensing and planning — integrates o9 Solutions with Delta Lake for real-time analytics | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+
 </div>
 
 ---
