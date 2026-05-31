@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF3621&height=120&section=header&text=Filo%20Gonzalez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Databricks%20Sr.%20Forward%20Delivery%20Engineer&descSize=18&descAlignY=60)
+8![header](https://capsule-render.vercel.app/api?type=waving&color=FF3621&height=120&section=header&text=Filo%20Gonzalez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Databricks%20Sr.%20Forward%20Delivery%20Engineer&descSize=18&descAlignY=60)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=FF3621&center=true&vCenter=true&width=700&lines=Databricks+Sr.+Forward+Delivery+Engineer;Spark+Declarative+Pipelines;Unity+Catalog+%E2%80%A2+LLMOps;Data+Platforms+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP" alt="Typing SVG" />
@@ -115,6 +115,7 @@ Highlighted projects in private repos — built for enterprise customers or inte
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filomeno-gonzalez)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="filogzz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/filogzz?trk=profile-badge">Filomeno Gonzalez</a></div>
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josefilomeno1992@gmail.com)
 
 </div>
